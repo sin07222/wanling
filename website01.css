@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+body{
+    font-family: Arial, Noto Sans TC, sans-serif;
+    font-size: 14pt;
+    padding-top: 60px;
+    
+}
+.navbar{
+    padding: 0;
+    background-color: #81D8D0;
+}
+.nav-link{
+    color: #000 !important;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#content{
+    margin-top: 10px;
+}
+#last-data{
+    height: 70px;
+    background-color: #81D8D0;
+    padding-top: 10px;
+}
