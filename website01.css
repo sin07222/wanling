@@ -10,7 +10,7 @@ body{
     background-color: #81D8D0;
 }
 .nav-link{
-    color: #000 !important;
+    color: #000;
     font-weight: bolder;
     font-size: x-large;
 }
@@ -21,4 +21,22 @@ body{
     height: 70px;
     background-color: #81D8D0;
     padding-top: 10px;
+}
+#video-background{
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; 
+}
+.img{
+    width: 1920px;
+    height: auto;
+    margin: -60px;
+    min-width: 100%;
+    min-height: 100%;
 }
